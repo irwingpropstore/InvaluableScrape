@@ -1,0 +1,23 @@
+{
+  "name": "invaluablescrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "invaluableScrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irwingpropstore/InvaluableScrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irwingpropstore/InvaluableScrape/issues"
+  },
+  "homepage": "https://github.com/irwingpropstore/InvaluableScrape#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
